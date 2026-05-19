@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.truth, .liar{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.truth{
+    background-color: rgb(0, 0, 0);
+    color: hsl(0, 0%, 100%);
+}
+
+.liar{
+    background-color: #ffff00;
+}
